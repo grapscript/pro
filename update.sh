@@ -42,15 +42,6 @@ res1() {
     mv menu/* /usr/local/sbin
     rm -rf menu
     rm -rf menu.zip
-    rm -rf *.sh*
-    rm -rf /usr/local/sbin/*~
-    rm -rf /usr/local/sbin/gz*
-    rm -rf /usr/local/sbin/*.bak
-    rm -rf /usr/local/sbin/m-noobz
-    wget /usr/local/sbin "https://raw.githubusercontent.com/grapscript/pro/main/Cfg/m-noobz"
-    cp m-noobz /usr/local/sbin
-    rm m-noobz*
-    chmod +x /usr/local/sbin/m-noobz
 }
 netfilter-persistent
 clear
