@@ -31,7 +31,7 @@ clear
 clear && clear && clear
 clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "\033[96;1m          WELCOME TO SRICPT BY ARISCTUNNEL V4            \033[0m"
+echo -e "\033[96;1m          WELCOME TO SRICPT KANG SCRIPT          \033[0m"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 3
